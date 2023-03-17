@@ -1,5 +1,5 @@
-# Excel-Files-Ranker-API
-This repository contains code for a Flask-based RESTful API that ranks the columns of Excel files and returns the top 5 columns.
+![image](https://user-images.githubusercontent.com/108644811/225912746-867f31fd-6ce4-48a7-ab47-d5373657f60b.png)
+> This repository contains code for a Flask-based RESTful API that ranks the columns of Excel files and returns the top 5 columns.
 
 # 📥 Installation Guide
 
