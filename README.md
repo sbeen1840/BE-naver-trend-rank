@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 
 ### Step 3 : Verify the installation of dependencies
 
-To verify whether `pandas`, `pytrends` and `trend` were installed properly, run the following.
+To verify whether `pandas`, `flask` were installed properly, run the following.
 
 ```
 $ python
@@ -36,7 +36,7 @@ If there are no error messages upon importing the above dependencies, it would i
 
 # 🔎 Usage
 
-### Step 1: Enter the keyword on the [🖱️Naver Trends site🖱️](https://datalab.naver.com/keyword/trendSearch.naver) and download the Excel file.
+### Step 1: Enter the keyword on the [Naver Trends site](https://datalab.naver.com/keyword/trendSearch.naver) and download the Excel file.
 
 ![image](https://user-images.githubusercontent.com/108644811/225911951-855bde8f-d57f-4405-8f97-921c198ba6ad.png)
 
@@ -53,8 +53,10 @@ If there are no error messages upon importing the above dependencies, it would i
   self.folders = folders
 ```
 ### Step 5 : Run the script by typing python `main.py` in the terminal.
-```py
->>> main.py
+```
+$ python
+>>> import pandas
+>>> import flask
 ```
 
 ### Step 6 : Access the data by visiting `http://localhost:5000/home` in your web browser.
