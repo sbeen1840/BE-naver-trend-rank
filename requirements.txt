@@ -1,0 +1,4 @@
+pytrends==4.9.0
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+pandas @ file:///C:/b/abs_cdcgk91igc/croots/recipe/pandas_1663772960432/work
+json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
