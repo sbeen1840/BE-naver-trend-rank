@@ -10,10 +10,11 @@
 ![image](https://user-images.githubusercontent.com/108644811/226158616-840e2938-f77f-4418-a26c-f08e955bcb1e.png)
 
 > 다운받은 파일을 상위폴더 내의 하위폴더들에 각각 분류합니다.
-![image](https://user-images.githubusercontent.com/108644811/226158396-5213276e-0b0e-410b-8266-dd6e8a571a0a.png)
+![image](https://user-images.githubusercontent.com/108644811/226158659-6d2b04b6-2089-4289-8894-1d0fe877ece7.png)
 
-폴더 경로, 파일 확장자, 하위 폴더 이름 리스트를 입력하여 Ranker 객체를 생성합니다.
+> 폴더 경로, 파일 확장자, 하위 폴더 이름 리스트를 입력하여 Ranker 객체를 생성합니다.
 ![image](https://user-images.githubusercontent.com/108644811/226158627-6ac3a8ce-9b20-4593-8c74-d1d641cbdedc.png)
+
 
 main.py 파일을 실행합니다.
 
