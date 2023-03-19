@@ -45,7 +45,7 @@ If there are no error messages upon importing the above dependencies, it would i
 ![image](https://user-images.githubusercontent.com/108644811/226096802-b48a3776-2aef-478e-be56-f6607d443573.png)
 
 ### Step 3: Place the Excel files corresponding to each topic in their respective subfolders.
-![image](https://user-images.githubusercontent.com/108644811/225910798-360fc707-2bcc-46b0-89f7-1f5925814ae4.png) ![image](https://user-images.githubusercontent.com/108644811/225916766-6b53666b-0464-461b-82d5-6c9d8e2c8f9b.png)
+![image](https://user-images.githubusercontent.com/108644811/225910798-360fc707-2bcc-46b0-89f7-1f5925814ae4.png) ![image](https://user-images.githubusercontent.com/108644811/226150633-304f5b07-be74-4d76-b606-89c059d66293.png)
 
 ### Step 4: Modify the masterpath, extension, and folders parameters in the Ranker class to specify the location of your Excel files.
 ```py
