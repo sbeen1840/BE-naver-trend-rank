@@ -72,7 +72,7 @@ The API returns a JSON object containing the top 5 columns of each Excel file in
 
 
 # 🔥Execution
-`docs/excel_files_ranker_api.ipynb` describes the execution steps of this program pipeline in detail.
+`info/excel_files_ranker_api.ipynb` describes the execution steps of this program pipeline in detail.
 
 
 # 📝Notes
