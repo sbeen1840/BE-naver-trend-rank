@@ -1,16 +1,19 @@
 # 특징
 > 키워드마스터에서 다운받은 csv파일을 폴더별 각각 상위 5개의 키워드를 추출하고, 그 결과를 json 형태로 반환하는 Flask API를 생성합니다.
 
-![image](https://user-images.githubusercontent.com/108644811/226158396-5213276e-0b0e-410b-8266-dd6e8a571a0a.png)
+
 
 
 # 사용 방법:
 
-[키워드마스터](https://whereispost.com/keyword/)에서 csv파일을 다운받습니다.
+> [키워드마스터](https://whereispost.com/keyword/)에서 csv파일을 다운받습니다.
+![image](https://user-images.githubusercontent.com/108644811/226158616-840e2938-f77f-4418-a26c-f08e955bcb1e.png)
 
-다운받은 파일을 상위폴더 내의 하위폴더들에 각각 분류합니다.
+> 다운받은 파일을 상위폴더 내의 하위폴더들에 각각 분류합니다.
+![image](https://user-images.githubusercontent.com/108644811/226158396-5213276e-0b0e-410b-8266-dd6e8a571a0a.png)
 
 폴더 경로, 파일 확장자, 하위 폴더 이름 리스트를 입력하여 Ranker 객체를 생성합니다.
+![image](https://user-images.githubusercontent.com/108644811/226158627-6ac3a8ce-9b20-4593-8c74-d1d641cbdedc.png)
 
 main.py 파일을 실행합니다.
 
