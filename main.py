@@ -47,5 +47,5 @@ class Ranker:
         self.app.run()
 
 if __name__ == '__main__':
-    ranker = Ranker('C:/Users/sbeen/OneDrive/바탕 화면/연습폴더/', '.xlsx', ['국비교육', '취업분야', '프로그래밍언어'])
+    ranker = Ranker('C:/Users/sbeen/OneDrive/바탕 화면/네이버트렌드파일/', '.xlsx', ['국비교육', '취업분야', '프로그래밍언어'])
     ranker.run()
